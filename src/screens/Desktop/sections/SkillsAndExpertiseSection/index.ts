@@ -1,0 +1,1 @@
+export { SkillsAndExpertiseSection } from "./SkillsAndExpertiseSection";
